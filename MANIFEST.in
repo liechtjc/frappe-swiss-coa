@@ -1,0 +1,1 @@
+recursive-include swiss_coa/accounts/doctype/chart_of_accounts/data *.json

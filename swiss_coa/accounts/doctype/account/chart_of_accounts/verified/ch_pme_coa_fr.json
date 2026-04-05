@@ -133,7 +133,7 @@
           },
           "Produits en cours de fabrication": {
             "account_number": "1270",
-            "account_type": "Work in Progress"
+            "account_type": "Capital Work in Progress"
           },
           "Prestations de services non facturées": {
             "account_number": "1280",

@@ -133,7 +133,7 @@
           },
           "Work in progress": {
             "account_number": "1270",
-            "account_type": "Work in Progress"
+            "account_type": "Capital Work in Progress"
           },
           "Unbilled services": {
             "account_number": "1280",

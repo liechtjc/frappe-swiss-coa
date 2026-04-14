@@ -6,6 +6,9 @@ app_version = "0.0.1"
 app_email = "liechtjc@gmail.com"
 app_license = "MIT"
 
+after_install = "swiss_coa.install.after_install"
+before_uninstall = "swiss_coa.install.before_uninstall"
+
 doc_events = {
 	"Company": {
 		"after_insert": "swiss_coa.company_defaults.set_swiss_defaults",
